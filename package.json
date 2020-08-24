@@ -1,0 +1,21 @@
+{
+  "name": "oauth-node",
+  "version": "1.0.0",
+  "description": "oauth using passport",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "oauth",
+    "node",
+    "passport"
+  ],
+  "author": "gowthamaraj",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
